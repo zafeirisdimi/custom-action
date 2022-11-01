@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is my custom action  :-)
+echo "this is my custom action  :-)"
